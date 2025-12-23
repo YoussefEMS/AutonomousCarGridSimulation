@@ -6,6 +6,7 @@ from .greedy import greedy_best_first
 from .astar import a_star_search
 from .ida_star import ida_star_search
 from .bidirectional import bidirectional_search
+from .bidirectionalAstar import bidirectional_a_star_search
 
 __all__ = [
     "SearchResult",
@@ -17,5 +18,6 @@ __all__ = [
     "a_star_search",
     "ida_star_search",
     "bidirectional_search",
+    'bidirectional_a_star_search'
 ]
 
