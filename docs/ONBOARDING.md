@@ -54,5 +54,4 @@ Two windows (Setup and Visualization) live inside the same Tk root; the simulato
 
 ---  
 Last verified: 2025-12-23  
-Commit: local-working-tree  
-Verified by: Codex Assistant
+

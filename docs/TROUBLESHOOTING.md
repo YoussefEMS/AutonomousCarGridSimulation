@@ -58,5 +58,3 @@ Use this reference when the simulator behaves unexpectedly. All fixes assume the
 
 ---  
 Last verified: 2025-12-23  
-Commit: local-working-tree  
-Verified by: Codex Assistant

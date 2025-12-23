@@ -41,5 +41,3 @@ pip install pytest
 
 ---  
 Last verified: 2025-12-23  
-Commit: local-working-tree  
-Verified by: Codex Assistant

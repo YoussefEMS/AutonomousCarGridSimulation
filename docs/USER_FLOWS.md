@@ -72,5 +72,3 @@ The Setup screen appears first.
 
 ---  
 Last verified: 2025-12-23  
-Commit: local-working-tree  
-Verified by: Codex Assistant

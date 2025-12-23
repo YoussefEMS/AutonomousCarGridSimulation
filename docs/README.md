@@ -32,5 +32,3 @@ All docs describe the current offline Tkinter implementation of the Autonomous C
 
 ---
 Last verified: 2025-12-23  
-Commit: local-working-tree  
-Verified by: Codex Assistant
